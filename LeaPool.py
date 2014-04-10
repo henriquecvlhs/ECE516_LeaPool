@@ -197,11 +197,11 @@ def main(mode=1):
     action = ""
     holdStick = 0
     
-   # while action!= "start":
-    #    action, speed, aux = listener.getMovement(controller)
-        #if action != "":
-        #    print action, speed
-     #   sleep(1)
+    while action!= "start":
+        action, speed, aux = listener.getMovement(controller)
+        if action != "":
+            print action, speed
+        sleep(1)
 
     #Initializing game
 
