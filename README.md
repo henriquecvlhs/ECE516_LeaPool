@@ -1,6 +1,11 @@
 README
 
-LeaPool is a pool game application developed using the pygames library to be interacted with through the leap motion device. The project was created for the ECE516 - Intelligent Image Processing course at the University of Toronto, winter 2014. 
+AUTHORS: Gabriela Ayako Ueno (gabiayako@gmail.com)
+         Gustavo Adriano Rodrigues (rodrigues.gustavoadriano@mail.utoronto.ca)
+         Henrique Carvalho Silva (henrique.cvlhs@gmail.com)
+         Leticia Li Koga (lelekoga@gmail.com)
+
+LeaPool is a pool game application developed using the pygames library to be interacted with through the leap motion device. The project was created by the students above as an exercise for the ECE516 - Intelligent Image Processing course at the University of Toronto, winter 2014. 
 
 The game runs in Python 2.7 using the pygames library, so this is must be installed in order for the game to work. The project also uses the leap motion API, which makes necessary to have leap motion API for python installed. Python time and easygui libraries are other requisites.
 
